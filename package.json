@@ -1,0 +1,22 @@
+{
+  "name": "@mojee/multicast-service-discovery",
+  "version": "0.0.0",
+  "description": "Multicast Service Discovery",
+  "main": "index.js",
+  "license": "LGPL-3.0-or-later",
+  "private": false,
+  "dependencies": {
+    "ajv": "^8.6.3",
+    "date-fns": "^2.25.0",
+    "ip-address": "^8.1.0",
+    "is-url": "^1.2.4",
+    "msgpackr": "^1.4.7"
+  },
+  "devDependencies": {
+    "eslint": "^7.12.1",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1"
+  }
+}
